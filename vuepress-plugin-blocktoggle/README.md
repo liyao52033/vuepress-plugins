@@ -43,6 +43,6 @@ module.exports = {
 
 效果
 
-![image-20230904222032130](./assets/image-20230904222032130.png)
+![image-20230905020053484](./assets/image-20230905020053484.png)
 
 目前只适配了同系列的[vuepress-plugin-copycodeblock](https://github.com/liyao52033/vuepress-plugins/blob/main/vuepress-plugin-copycodeblock)，与其他复制插件位置有所冲突，如需要复制代码块，请使用此插件
