@@ -7,9 +7,9 @@
 ## 使用方法
 
 ```sh
-npm i vuepress-plugin-nuggets-style-copy
+npm i vuepress-plugin-copycodeblock
 # or
-yarn i vuepress-plugin-nuggets-style-copy
+yarn i vuepress-plugin-copycodeblock
 ```
 
 - config.js
@@ -21,7 +21,7 @@ module.exports = {
 plugins: [
   // .. 省略
   [
-    "vuepress-plugin-nuggets-style-copy"
+    "vuepress-plugin-copycodeblock"
   ]
 ];
 ```
