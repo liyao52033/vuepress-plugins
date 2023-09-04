@@ -212,10 +212,11 @@ div[class*="language-"].line-numbers-mode::after {
 }
 /* 代码块一键复制图标 */
 .code-copy {
+  transform: scale(1.5); /* 调整比例以放大或缩小图标 */
   position: absolute;
-  top: 6px;
+  top: 0.8em;
   right: 2rem;
-  fill: rgba(238, 255, 255, 0.8);
+  fill: rgba(238, 255, 255, 0.8) !important;
   opacity: 1;
 }
 .code-copy svg {
