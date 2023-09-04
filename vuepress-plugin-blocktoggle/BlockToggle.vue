@@ -153,7 +153,7 @@ export default {
   cursor: pointer;
   position: absolute;
   z-index: 3;
-  // top: 0.8em;
+  /*top: 0.8em;*/
   right: 0.5em;
   color: rgba(238, 255, 255, 0.8);
   font-weight: 900;
@@ -181,7 +181,7 @@ li .closed {
 div[class*="language-"]::before {
   position: absolute;
   z-index: 3;
-  // top: 0.3em;
+  /*top: 0.3em;*/
   left: 4.7rem;
   font-size: 1.15em;
   color: rgba(238, 255, 255, 0.8);
@@ -201,7 +201,7 @@ div[class*="language-"].line-numbers-mode::after {
 /* 代码块的三个圆圈颜色 */
 .circle {
   position: absolute;
-  // top: 0.8em;
+  /*top: 0.8em;*/
   left: 0.9rem;
   width: 12px;
   height: 12px;
@@ -213,7 +213,7 @@ div[class*="language-"].line-numbers-mode::after {
 /* 代码块一键复制图标 */
 .code-copy {
   position: absolute;
-  // top: 0.8rem;
+  /*top: 0.8rem;*/
   right: 2rem;
   fill: rgba(238, 255, 255, 0.8);
   opacity: 1;
