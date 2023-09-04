@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/liyao52033/vuepress-plugins.git"
+    "url": "https://github.com/liyao52033/vuepress-plugins/tree/main/vuepress-plugin-blocktoggle"
   },
   "keywords": [
     "vuepress",
@@ -20,7 +20,7 @@
   "bugs": {
     "url": "https://github.com/liyao52033/vuepress-plugins/issues"
   },
-  "homepage": "https://github.com/liyao52033/vuepress-plugins#readme",
+  "homepage": "https://github.com/liyao52033/vuepress-plugins/tree/main/vuepress-plugin-blocktoggle#readme",
   "dependencies": {
     "vue": "^3.3.4"
   }
