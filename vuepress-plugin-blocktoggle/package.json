@@ -1,0 +1,27 @@
+{
+  "name": "vuepress-plugin-blocktoggle",
+  "version": "1.0.0",
+  "description": "基于vuepress隐藏代码块",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/liyao52033/vuepress-plugins.git"
+  },
+  "keywords": [
+    "vuepress",
+    "code",
+    "block"
+  ],
+  "author": "liyao52033",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/liyao52033/vuepress-plugins/issues"
+  },
+  "homepage": "https://github.com/liyao52033/vuepress-plugins#readme",
+  "dependencies": {
+    "vue": "^3.3.4"
+  }
+}
