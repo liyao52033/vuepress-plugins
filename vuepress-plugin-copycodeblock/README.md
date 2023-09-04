@@ -1,16 +1,20 @@
 ## 掘金风格代码块复制
 
-![background](img/back.jpg)
-
-在社区虽然已经有代码复制块的插件了，但是风格不太喜欢所以动手实现了一个，灵感来源于掘金社区以及 element
-
 ## 使用方法
 
+npm
+
 ```sh
-npm i vuepress-plugin-copycodeblock
-# or
-yarn i vuepress-plugin-copycodeblock
+npm i vuepress-plugin-copycodeblock -D
 ```
+
+yarn
+
+```bash
+yarn add vuepress-plugin-copycodeblock -D
+```
+
+
 
 - config.js
 
