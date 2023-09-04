@@ -21,11 +21,7 @@ module.exports = {
 plugins: [
   // .. 省略
   [
-    "vuepress-plugin-nuggets-style-copy",
-    {
-      copyText: "复制代码",
-      tip: { content: "复制成功" }
-    }
+    "vuepress-plugin-nuggets-style-copy"
   ]
 ];
 ```
@@ -38,7 +34,7 @@ plugins: [
 
 #### copyText
 
-复制代码块显示的文字，默认为`Copy code`
+复制代码块显示的文字，默认为`复制代码`
 
 #### change
 
@@ -57,11 +53,11 @@ plugins: [
 
 - content
 
-复制成功后的提示内容，默认为`copy success`
+复制成功后的提示内容，默认为`复制成功`
 
 - title
 
-复制成功后的标题，默认为`Tips`
+复制成功后的标题，默认为`提示`
 
 ## 协议
 
