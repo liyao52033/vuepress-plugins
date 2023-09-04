@@ -51,10 +51,10 @@ div[class][class*="language-"]::before {
   color: hsla(0, 0%, 54.9%, 0.8);
   transition: color 0.1s;
   position: absolute;
-  z-index: 3;
-  top: 0.8em;
-  right: 15px;
+  right: 35px;
+  top: 13px;
   font-size: 0.75rem;
+  z-index: 3;
 }
 
 .v-copy-code-btn:hover {
