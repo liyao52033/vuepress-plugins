@@ -155,7 +155,7 @@ export default {
   z-index: 3;
   top: 0.8em;
   right: 0.5em;
-  color: rgba(238, 255, 255, 0.8);
+  color: #409eff;
   font-weight: 900;
   transition: transform 0.3s;
 }
@@ -223,14 +223,4 @@ div[class*="language-"].line-numbers-mode::after {
   margin: 0;
 }
 
-/* 如果你浅色模式的代码块背景色是浅灰色，则取消下面的注释使代码生效，如果是黑色，则注释下面的三段代码（我注释了，因为是黑色背景） */
-/* .theme-mode-light .expand {
-  color: #666;
-}
-.theme-mode-light div[class*="language-"]::before {
-  color: #666;
-}
-.theme-mode-light .code-copy {
-  fill: #666;
-} */
 </style>

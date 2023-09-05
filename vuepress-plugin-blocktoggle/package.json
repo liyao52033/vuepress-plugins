@@ -1,6 +1,6 @@
 {
   "name": "vuepress-plugin-blocktoggle",
-  "version": "1.1.3",
+  "version": "1.1.4",
   "description": "基于vuepress折叠代码块",
   "main": "index.js",
   "scripts": {
