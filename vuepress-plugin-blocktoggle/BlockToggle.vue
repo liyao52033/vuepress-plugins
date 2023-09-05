@@ -184,11 +184,12 @@ div[class*="language-"]::before {
   top: 0.3em;
   left: 4.7rem;
   font-size: 1.15em;
-  color: rgba(238, 255, 255, 0.8);
+  color: rgb(230 38 65 / 98%) !important;
   text-transform: uppercase;
   font-weight: bold;
   width: fit-content;
 }
+
 /* li 下的代码块的语言和 li 下的箭头 */
 li div[class*="language-"]::before,
 li .expand {
@@ -206,10 +207,10 @@ div[class*="language-"].line-numbers-mode::after {
   width: 12px;
   height: 12px;
   border-radius: 50%;
-  background: #fc625d;
-  -webkit-box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
+  background: #8b09f7;
   box-shadow: 20px 0 #fdbc40, 40px 0 #35cd4b;
 }
+
 /* 代码块一键复制图标 */
 .code-copy {
   transform: scale(1.5); /* 调整比例以放大或缩小图标 */
